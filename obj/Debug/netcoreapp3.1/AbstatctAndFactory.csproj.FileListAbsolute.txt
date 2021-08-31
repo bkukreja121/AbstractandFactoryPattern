@@ -1,0 +1,13 @@
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.csproj.AssemblyReference.cache
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.AssemblyInfoInputs.cache
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.AssemblyInfo.cs
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\bin\Debug\netcoreapp3.1\AbstatctAndFactory.exe
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\bin\Debug\netcoreapp3.1\AbstatctAndFactory.deps.json
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\bin\Debug\netcoreapp3.1\AbstatctAndFactory.runtimeconfig.json
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\bin\Debug\netcoreapp3.1\AbstatctAndFactory.runtimeconfig.dev.json
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\bin\Debug\netcoreapp3.1\AbstatctAndFactory.dll
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\bin\Debug\netcoreapp3.1\AbstatctAndFactory.pdb
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.dll
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.pdb
+C:\Users\bkukrej\source\repos\AbstatctAndFactory\AbstatctAndFactory\obj\Debug\netcoreapp3.1\AbstatctAndFactory.genruntimeconfig.cache
